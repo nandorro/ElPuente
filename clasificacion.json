@@ -1,0 +1,13 @@
+{
+  "jugadores": {
+    "nando": {
+      "nombre": "Nando",
+      "mejorPuntos": 57950,
+      "mejorNivel": 10,
+      "jugadas": 7,
+      "terminadas": 2,
+      "victorias": 2,
+      "puntosTotales": 111910
+    }
+  }
+}
