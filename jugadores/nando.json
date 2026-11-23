@@ -1,0 +1,170 @@
+{
+  "nombre": "Nando",
+  "partidas": [
+    {
+      "fecha": "2026-11-23 19:59",
+      "minutos": 1,
+      "desde": 1,
+      "nivel": 1,
+      "puntos": 670,
+      "estado": "En curso",
+      "retomada": false,
+      "dificultad": "Pesadilla",
+      "detalle": {
+        "golpes": 16,
+        "recibidos": 29,
+        "asaltosGanados": 1,
+        "asaltosPerdidos": 0,
+        "alAgua": 0,
+        "caidas": 0,
+        "espinacas": 0,
+        "colosos": 0
+      }
+    },
+    {
+      "fecha": "2026-11-23 19:37",
+      "minutos": 12,
+      "desde": 1,
+      "nivel": 10,
+      "puntos": 57950,
+      "estado": "Victoria",
+      "retomada": false,
+      "dificultad": "Difícil",
+      "detalle": {
+        "golpes": 442,
+        "recibidos": 342,
+        "asaltosGanados": 32,
+        "asaltosPerdidos": 18,
+        "alAgua": 11,
+        "caidas": 0,
+        "espinacas": 8,
+        "colosos": 1
+      }
+    },
+    {
+      "fecha": "2026-11-23 19:36",
+      "minutos": 0,
+      "desde": 1,
+      "nivel": 1,
+      "puntos": 0,
+      "estado": "Sin terminar",
+      "retomada": true,
+      "dificultad": "Normal",
+      "detalle": {
+        "golpes": 0,
+        "recibidos": 0,
+        "asaltosGanados": 0,
+        "asaltosPerdidos": 0,
+        "alAgua": 0,
+        "caidas": 0,
+        "espinacas": 0,
+        "colosos": 0
+      }
+    },
+    {
+      "fecha": "2026-11-23 18:46",
+      "minutos": 0,
+      "desde": 1,
+      "nivel": 1,
+      "puntos": 0,
+      "estado": "Sin terminar",
+      "retomada": false,
+      "detalle": {
+        "golpes": 0,
+        "recibidos": 0,
+        "asaltosGanados": 0,
+        "asaltosPerdidos": 0,
+        "alAgua": 0,
+        "caidas": 0,
+        "espinacas": 0,
+        "colosos": 0
+      }
+    },
+    {
+      "fecha": "2026-11-23 18:10",
+      "minutos": 35,
+      "desde": 2,
+      "nivel": 10,
+      "puntos": 48260,
+      "estado": "Victoria",
+      "retomada": true,
+      "detalle": {
+        "golpes": 757,
+        "recibidos": 586,
+        "asaltosGanados": 29,
+        "asaltosPerdidos": 20,
+        "alAgua": 9,
+        "caidas": 2,
+        "espinacas": 5,
+        "colosos": 1
+      }
+    },
+    {
+      "fecha": "2026-11-23 16:59",
+      "minutos": 0,
+      "desde": 2,
+      "nivel": 2,
+      "puntos": 0,
+      "estado": "Sin terminar",
+      "retomada": true,
+      "detalle": {
+        "golpes": 0,
+        "recibidos": 0,
+        "asaltosGanados": 0,
+        "asaltosPerdidos": 0,
+        "alAgua": 0,
+        "caidas": 0,
+        "espinacas": 0,
+        "colosos": 0
+      }
+    },
+    {
+      "fecha": "2026-11-23 16:56",
+      "minutos": 2,
+      "desde": 1,
+      "nivel": 2,
+      "puntos": 5700,
+      "estado": "Sin terminar",
+      "retomada": false,
+      "detalle": {
+        "golpes": 116,
+        "recibidos": 91,
+        "asaltosGanados": 2,
+        "asaltosPerdidos": 2,
+        "alAgua": 1,
+        "caidas": 0,
+        "espinacas": 1,
+        "colosos": 0
+      }
+    }
+  ],
+  "jugadas": 7,
+  "ultimoNivel": 1,
+  "puntosTotales": 111910,
+  "mejorPuntos": 57950,
+  "mejorNivel": 10,
+  "terminadas": 2,
+  "victorias": 2,
+  "estadoJuego": {
+    "nivel": 1,
+    "vidas": 3,
+    "puntos": 670,
+    "dif": 2,
+    "latas": 0,
+    "coloso": 0,
+    "espRoja": false,
+    "tormenta": false,
+    "clima": {
+      "hora": 12.733670234680176,
+      "tiempo": 0,
+      "visible": 0,
+      "inten": 0,
+      "cambioT": 17.66692543029785,
+      "proximo": 1,
+      "nubes": 0.477769136428833,
+      "tipoNubes": 1,
+      "cubierto": 0.4436447322368622,
+      "tapadoSuave": 0.46125370264053345
+    }
+  }
+}
