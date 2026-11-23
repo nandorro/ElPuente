@@ -2,13 +2,13 @@
 
 | Partidas jugadas | Terminadas | Victorias | Mejor puntuación | Mejor nivel | Puntos totales | Retomar en nivel |
 |---|---|---|---|---|---|---|
-| 7 | 2 | 2 | 57950 | 10 | 111910 | 4 |
+| 7 | 3 | 3 | 57950 | 10 | 167430 | — |
 
 ## Partidas
 
 | Fecha | Estado | Puntos | Niveles | Min | Golpes | Al agua | Caídas | Espinacas |
 |---|---|---|---|---|---|---|---|---|
-| 2026-11-23 19:59 | En curso · Pesadilla | 17930 | 1→4 | 7 | 143 | 3 | 0 | 3 |
+| 2026-11-23 19:59 | Victoria · Pesadilla | 55520 | 1→10 | 12 | 284 | 10 | 0 | 6 |
 | 2026-11-23 19:37 | Victoria · Difícil | 57950 | 1→10 | 12 | 442 | 11 | 0 | 8 |
 | 2026-11-23 19:36 | Sin terminar (retomada) | 0 | 1→1 | 0 | 0 | 0 | 0 | 0 |
 | 2026-11-23 18:46 | Sin terminar | 0 | 1→1 | 0 | 0 | 0 | 0 | 0 |
