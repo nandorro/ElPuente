@@ -8,6 +8,14 @@ Este repositorio **no tiene el código del juego**, solo el registro. Lo escribe
 - **`jugadores/<nombre>.md`**: resumen de cada jugador (partidas jugadas, terminadas, victorias, mejor puntuación, nivel en el que retomar) y la lista de sus últimas partidas.
 - **`jugadores/<nombre>.json`**: los mismos datos en formato JSON, que es lo que lee la app para recuperar el progreso si cambias de móvil.
 
+## Dificultades
+
+Al empezar una partida nueva se elige la dificultad, y queda anotada en cada partida.
+
+- **Normal**: Brutorro va del nivel 1 al 10.
+- **Difícil**: Brutorro va del nivel 11 al 20. El Marinero también resbala con la lluvia y la nieve, y con nieve el resbalón lo deja aturdido el doble de tiempo. La bruja sale el doble de veces, pero también el botón de patada y las espinacas, y el Marinero Coloso pega el doble de fuerte.
+- **Pesadilla**: Brutorro va del nivel 21 al 30 y todo se multiplica por tres.
+
 ## Puntuación
 
 | Acción | Puntos |
