@@ -3,22 +3,22 @@
   "partidas": [
     {
       "fecha": "2026-11-23 19:59",
-      "minutos": 3,
+      "minutos": 7,
       "desde": 1,
-      "nivel": 3,
-      "puntos": 9170,
+      "nivel": 4,
+      "puntos": 17930,
       "estado": "En curso",
       "retomada": false,
       "dificultad": "Pesadilla",
       "detalle": {
-        "golpes": 59,
-        "recibidos": 92,
-        "asaltosGanados": 3,
-        "asaltosPerdidos": 1,
-        "alAgua": 2,
+        "golpes": 143,
+        "recibidos": 175,
+        "asaltosGanados": 7,
+        "asaltosPerdidos": 6,
+        "alAgua": 3,
         "caidas": 0,
-        "espinacas": 2,
-        "colosos": 0
+        "espinacas": 3,
+        "colosos": 1
       }
     },
     {
@@ -139,32 +139,32 @@
     }
   ],
   "jugadas": 7,
-  "ultimoNivel": 3,
+  "ultimoNivel": 4,
   "puntosTotales": 111910,
   "mejorPuntos": 57950,
   "mejorNivel": 10,
   "terminadas": 2,
   "victorias": 2,
   "estadoJuego": {
-    "nivel": 3,
+    "nivel": 4,
     "vidas": 3,
-    "puntos": 9170,
+    "puntos": 17930,
     "dif": 2,
-    "latas": 2,
-    "coloso": 0,
+    "latas": 0,
+    "coloso": 114.60887908935547,
     "espRoja": true,
     "tormenta": false,
     "clima": {
-      "hora": 19.85293960571289,
+      "hora": 5.907287120819092,
       "tiempo": 0,
       "visible": 2,
-      "inten": 0.3391701281070709,
-      "cambioT": 30.85495376586914,
-      "proximo": 1,
-      "nubes": 0.5279794931411743,
-      "tipoNubes": 1,
-      "cubierto": 0.20063678920269012,
-      "tapadoSuave": 2.5912719138432294E-5
+      "inten": 0.06087662652134895,
+      "cambioT": 26.058380126953125,
+      "proximo": 2,
+      "nubes": 0.32919779419898987,
+      "tipoNubes": 2,
+      "cubierto": 0.06943372637033463,
+      "tapadoSuave": 5.557775906162021E-10
     }
   }
 }
