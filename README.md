@@ -40,8 +40,10 @@ La puntuación de una partida nunca baja de 0.
 ## Estados de una partida
 
 - **Victoria**: ganaste los 10 niveles.
-- **Game over**: perdiste las 3 vidas. Se puede **retomar en el nivel** en el que te quedaste.
+- **Game over**: perdiste las 3 vidas. Se puede **retomar**.
 - **En curso**: saliste de la app a mitad de partida.
 - **Sin terminar**: empezaste otra partida sin acabar la anterior. También se puede retomar.
+
+Al **retomar** se sigue la misma partida tal como estaba: nivel, puntos, vidas (3 si venía de un game over), latas de espinacas, Marinero Coloso, espinaca roja, hora del día y el tiempo que hacía (lluvia, nieve, nubes, tormenta). Cuando termina, se vuelve a anotar como una sola partida marcada «retomada».
 
 Las partidas de prueba (código secreto) no se registran.
